@@ -1,0 +1,3 @@
+theme: jekyll-theme-cayman
+
+helm repo index --url https://erdengk.github.io/shenyu-helm .
