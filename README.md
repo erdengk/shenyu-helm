@@ -20,7 +20,3 @@ add repo
 install:
 
 > helm install my-shenyu shenyu/shenyu --version 2.4.2
-
-
-
-have fun～
